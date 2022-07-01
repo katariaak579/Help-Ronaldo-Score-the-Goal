@@ -7,7 +7,7 @@ You have to also be careful of Pique(tracker.jpg) so that he doesn’t catch you
 Scoring a goal gives you 1 plus point and if Pique catches Ronaldo you lose 1 point. 
 
 
-If you want to quit the game press 'q'
+If you want to quit the game press **'q'**
 
 
 ## How was it build 
